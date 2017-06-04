@@ -1,3 +1,4 @@
+//テスト
 function getFocus(id){
 	document.getElementById(id).select();
 }
